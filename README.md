@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Data Newbie
+Hi, I'm Bradley. I'm an expert in technical support and teaching English as a 2nd language
+
+Experience using technical knowledge to simplify complex ideas. Teaching skills to interpolate and provide easily digestible insights. Natural ability to find trends and suggest solutions.
+
+Actively practicing MYSQL by creating projects. 
+
+I have learned how to use both Tableau and PowerBI.
+
+Actively practicing exploratory data analysis and visualization with Python pandas and matplotlib.
