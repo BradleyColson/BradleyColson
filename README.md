@@ -21,5 +21,5 @@ My experience in providing tech support has developed strong troubleshooting and
 
 Teaching English as a Second Language has honed exceptional communication and the ability to explain complex information clearly to diverse audiences. 
 
-Eager to contribute a unique blend of technical experience and communication skills to a data-driven environment.
+Eager to contribute a unique blend of technical experience and communication skills to solve business problems.
 
