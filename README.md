@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 Hi, I'm Bradley. I'm an expert in technical support and teaching English as a 2nd language
 
-Experience using technical knowledge to simplify complex ideas. Teaching skills to interpolate and provide easily digestible insights. Natural ability to find trends and suggest solutions.
+My experience in providing tech support has developed strong troubleshooting and logical thinking abilities. 
 
-+ Actively practicing MYSQL by creating projects. 
-+ I have learned how to use both Tableau and PowerBI.
-+ Actively practicing exploratory data analysis and visualization with Python pandas and matplotlib.
+Teaching English as a Second Language has honed exceptional communication and the ability to explain complex information clearly to diverse audiences. 
+
+Eager to contribute a unique blend of technical experience and communication skills to a data-driven environment.
+
